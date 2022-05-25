@@ -1,3 +1,6 @@
+
+![banner](https://user-images.githubusercontent.com/105602130/170315639-77934311-961c-48fc-88d5-3b40261b1660.png)
+
 <h1 align="center">Hi 👋, I'm Bhargav Sharma</h1>
 <h1 align="center">
   
