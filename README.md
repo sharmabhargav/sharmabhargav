@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmabhargav&label=Profile%20views&color=0e75b6&style=flat" alt="sharmabhargav" /> </p>
 
+<p align="center"><img  height="400" width="600" src="https://user-images.githubusercontent.com/105602130/170252911-cab2e0b3-ff2a-4b18-8b73-3f0261de824f.gif" /> </p>
+
+
 - 🔭 I’m currently working on **Android development and Web development**
 
 - 👨‍💻 All of my projects are available at [bhargavsharma.github.io](bhargavsharma.github.io)
