@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Android development and Web development**
 
-- 👨‍💻 All of my projects are available at [bhargavsharma.github.io](https://sharmabhargav.github.io/bhargavsharma.github.io/)
+- 👨‍💻 Checkout my photography website: [bhargavsharma.github.io](https://sharmabhargav.github.io/bhargavsharma.github.io/)
 
 - 📫 How to reach me **bhargavsharma0407@gmail.com**
 
