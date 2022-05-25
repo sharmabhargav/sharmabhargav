@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhargav Sharma</h1>
-<h3 align="center">A passionate Frontend Developer and Android Developer from India</h3>
-
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=4000&center=true&vCenter=true&lines=I+am+a+Front+End+Developer;I+am+an+Android+Developer;I+am+a+Photographer;I+am+a+Filmmaker)](https://git.io/typing-svg)
+ 
+</h1>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmabhargav&label=Profile%20views&color=0e75b6&style=flat" alt="sharmabhargav" /> </p>
 
 <p align="center"><img  height="400" width="600" src="https://user-images.githubusercontent.com/105602130/170252911-cab2e0b3-ff2a-4b18-8b73-3f0261de824f.gif" /> </p>
