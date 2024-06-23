@@ -13,7 +13,7 @@
 <p align="center"><img  height="400" width="600" src="https://user-images.githubusercontent.com/105602130/170252911-cab2e0b3-ff2a-4b18-8b73-3f0261de824f.gif" /> </p>
 
 
-- 🔭 I’m currently working on **Business Consultant**
+- 🔭 I’m currently working as a **Business Consultant**
 
 - 👨‍💻 Checkout my photography website: [bhargavsharma.github.io](https://sharmabhargav.github.io/bhargavsharma.github.io/)
 
