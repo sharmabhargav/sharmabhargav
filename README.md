@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Sharma</h1>
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=4000&center=true&vCenter=true&lines=I+am+a+Front+End+Developer;I+am+an+Android+Developer;I+am+a+Photographer;I+am+a+Filmmaker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=4000&center=true&vCenter=true&lines=Welsome+to+my+Gitihub;Welsome+to+my+Gitihub;Happy+Exploring)](https://git.io/typing-svg)
  
 </h1>
   
@@ -13,7 +13,7 @@
 <p align="center"><img  height="400" width="600" src="https://user-images.githubusercontent.com/105602130/170252911-cab2e0b3-ff2a-4b18-8b73-3f0261de824f.gif" /> </p>
 
 
-- 🔭 I’m currently working on **Android development and Web development**
+- 🔭 I’m currently working on **Business Consultant**
 
 - 👨‍💻 Checkout my photography website: [bhargavsharma.github.io](https://sharmabhargav.github.io/bhargavsharma.github.io/)
 
