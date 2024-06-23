@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Sharma</h1>
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=4000&center=true&vCenter=true&lines=Welsome+to+my+Gitihub;Welsome+to+my+Gitihub;Happy+Exploring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&duration=4000&center=true&vCenter=true&lines=Welcome+to+my+GitHub;Happy+Exploring)](https://git.io/typing-svg)
  
 </h1>
   
